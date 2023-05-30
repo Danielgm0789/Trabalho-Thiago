@@ -12,7 +12,7 @@ body {
 
 .container-fluid#titulo {
     background: url(img/img1.jpg) no-repeat center;
-    height: 90.5vh;
+    height: 88.9vh;
     
 }
   
@@ -40,16 +40,20 @@ body {
 
 #conclusao {
     padding-top: 85px;
-    height: 610px;
+    height: 540px;
 }
 
 #referencia {
     padding-top: 85px;
-    height: 573px;
+    height: 483px;
 }
 
 #footer {
     text-decoration: none;
+}
+
+#direitos-autorais {
+    border-top: 2px solid white;
 }
 
 .row {
